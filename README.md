@@ -27,7 +27,7 @@ AINDA NÃO INPLEMENTADO.
 Clone o projeto
 
 ```bash
-  git clone 
+  git clone https://github.com/APOLOWILKER/memory-game-2.0.git
 ```
 
 Entre no diretório do projeto
